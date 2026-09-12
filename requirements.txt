@@ -1,0 +1,8 @@
+pyTelegramBotAPI
+aiohttp
+opencv-python-headless
+ddddocr
+aiogram
+uvloop
+requests
+flask
